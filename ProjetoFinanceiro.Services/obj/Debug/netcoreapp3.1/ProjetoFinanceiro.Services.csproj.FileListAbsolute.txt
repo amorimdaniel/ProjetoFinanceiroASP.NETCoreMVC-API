@@ -1,0 +1,10 @@
+C:\Users\dan-a\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Services\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.deps.json
+C:\Users\dan-a\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Services\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.dll
+C:\Users\dan-a\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Services\bin\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.pdb
+C:\Users\dan-a\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.csproj.AssemblyReference.cache
+C:\Users\dan-a\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan-a\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.AssemblyInfoInputs.cache
+C:\Users\dan-a\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.AssemblyInfo.cs
+C:\Users\dan-a\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.csproj.CoreCompileInputs.cache
+C:\Users\dan-a\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.dll
+C:\Users\dan-a\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Services\obj\Debug\netcoreapp3.1\ProjetoFinanceiro.Services.pdb
